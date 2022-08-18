@@ -172,7 +172,7 @@ Objetivos Específicos:
  </dl>
 <b>CONCLUSIONES
  <dl>
-  <dd></dd>
+  <dd>Como se ha podido evidenciar en los capítulos 13 y 14, los inductores son elementos pasivos como las resistencias y capacitores, pero que tienen la característica de almacenamiento de energía en forma de campo magnético. Así mismo, los tipos de los inductores son: fijo, variable, núcleo de aire, núcleo de hierro y núcleo de ferrita. De igual forma, al realizar los ejercicios planteados, se determina que cuando cambia la corriente en una bobina, se induce voltaje en la otra bobina y un transformador no puede incrementar su potencia.</dd>
  </dl>
 <b>BIBLIOGRAFÍA
  <dl>
