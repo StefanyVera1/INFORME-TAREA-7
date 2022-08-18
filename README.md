@@ -17,7 +17,7 @@ Objetivos Específicos:
  <dl>
   <dd>SECCIÓN 13</dd>
    <dd><div align="center"><img src="" width="400" height="550"></dd> 
-   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/cap5.1.JPG" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="" width="400" height="550"></dd> 
    <dd>SECCIÓN 14</dd>
    <dd><div align="center"><img src="" width="400" height="550"></dd> 
 </dl>
@@ -32,56 +32,57 @@ Objetivos Específicos:
 <dd>2. Convierta los siguientes valores en microhenries:
 (a) 300 mH (b) 0.08 H (c) 5 mH (d) 0.00045 mH
 </dd>
- <dd><div align="center"><img src=""  width="350" height="300"></div></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej2.JPG"  width="350" height="300"></div></dd>
 <dd>4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?</dd>
- <dd><div align="center"><img src=""></div></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej4.JPG"></div></dd>
  <dd>6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10x10^-5 m2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2x10^6 H/m. </dd>
- <dd><div align="center"><img src=""></div></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej6.JPG"></div></dd>
  <dd>8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.</dd>
- <dd><div align="center"><img src=""></div></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej8.JPG"></div></dd>
  <dd>10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4πx10^6H/m). Determine la inductancia de la bobina que se formó.</dd>
- <dd><div align="center"><img src=""></div></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej10.JPG"></div></dd>
  </dl>
 
  <i>SECCIÓN 13–3 Inductores en serie y en paralelo</i>
 <dl>
 <dd>12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej12.JPG"></dd>
 <dd>14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej14.JPG"></dd>
  <dd>16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej16.JPG"></dd>
  <dd>18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej18.JPG"></dd>
  </dl>
   
  <i>SECCIÓN 13–4 Inductores en circuitos de cd</i>
 <dl>
 <dd>20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total, con cada una de las siguientes combinaciones: </dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej20.JPG"></dd>
 <dd>*22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
 (a) 10 µs (b) 20 µs (c) 30 µs
 </dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej22.JPG"></dd>
   <dd>*24. Repita el problema 22 para los siguientes instantes:</dd>
- <dd><div align="center"><img src=""></dd> 
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej24.JPG"></dd> 
 <dd>26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?</dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej26a.JPG"></dd>
 <dd>(b) ¿Cuál es el corriente justo antes de que la onda cuadrada se reduzca a cero?</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej26b.JPG"></dd>
 <dd>*28. (a) ¿Cuál es la corriente en el inductor 1?0 ms después de que se cierra el interruptor en la figura 13-50?</dd>
-<dd>(b) ¿Cuál es la corriente después de que transcurren 5ͳ?
-</dd>
-  <dd><div align="center"><img src=""></dd>
+   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej28a.JPG"></dd>
+<dd>(b) ¿Cuál es la corriente después de que transcurren 5ͳ?</dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej28b.JPG"></dd>
   </dl>
     
  <i>SECCIÓN 13–5 Inductores en circuitos de ca</i>
 <dl>
 <dd>30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej30.JPG"></dd>
 <dd>32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej32.JPG"></dd>
 <dd>34. En la figura 13-51, determine la potencia reactiva.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej34.JPG"></dd>
  </dl>
  
 <b>SECCIÓN 14 TRANSFORMADORES
