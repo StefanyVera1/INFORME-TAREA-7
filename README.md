@@ -65,11 +65,11 @@ Objetivos Específicos:
  <dd><div align="center"><img src=""></dd>
   <dd>*24. Repita el problema 22 para los siguientes instantes:</dd>
  <dd><div align="center"><img src=""></dd> 
-<dd>26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
-(b) ¿Cuál es el corriente justo antes de que la onda cuadrada se reduzca a cero?</dd>
+<dd>26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?</dd>
+<dd>(b) ¿Cuál es el corriente justo antes de que la onda cuadrada se reduzca a cero?</dd>
  <dd><div align="center"><img src=""></dd>
-<dd>*28. (a) ¿Cuál es la corriente en el inductor 1?0 ms después de que se cierra el interruptor en la figura 13-50?
-(b) ¿Cuál es la corriente después de que transcurren 5ͳ?
+<dd>*28. (a) ¿Cuál es la corriente en el inductor 1?0 ms después de que se cierra el interruptor en la figura 13-50?</dd>
+<dd>(b) ¿Cuál es la corriente después de que transcurren 5ͳ?
 </dd>
   <dd><div align="center"><img src=""></dd>
   </dl>
