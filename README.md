@@ -32,7 +32,7 @@ Objetivos Específicos:
 <dd>2. Convierta los siguientes valores en microhenries:
 (a) 300 mH (b) 0.08 H (c) 5 mH (d) 0.00045 mH
 </dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej2.JPG"  width="350" height="300"></div></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej2.JPG"></div></dd>
 <dd>4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?</dd>
  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/ej4.JPG"></div></dd>
  <dd>6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10x10^-5 m2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2x10^6 H/m. </dd>
