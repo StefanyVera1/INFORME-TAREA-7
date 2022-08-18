@@ -89,75 +89,76 @@ Objetivos Específicos:
 <i>SECCIÓN 14–1 Inductancia mutua</i>
 <dl>
 <dd>2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 = 2 µH.</dd>
- <dd><div align="center"><img src=""></dd>  
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej2.JPG"></dd>  
 </dl>
   
 <i>SECCIÓN 14–2 El transformador básico</i>
 <dl>
 <dd>4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?</dd> 
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej4.JPG"></dd>
 </dl>
 
  <i>SECCIÓN 14–3 Transformadores elevadores y reductores</i>
 <dl>
 <dd>6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej5.JPG"></dd>
   <dd>8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?</dd> 
-<dd><div align="center"><img src=""></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej.8JPG"></dd>
 <dd>10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?</dd> 
-<dd><div align="center"><img src=""></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej10.JPG"></dd>
 <dd>12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?</dd> 
-<dd><div align="center"><img src=""></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej12.JPG"></dd>
  </dl>
   
  <i>SECCIÓN 14–4 Carga del devanado secundario</i>
 <dl>
 <dd>14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej14.JPG"></dd>
 </dl>
     
  <i>SECCIÓN 14–5 Carga reflejada</i>
 <dl>
 <dd>16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej16.JPG"></dd>
 </dl>
 
  <i>SECCIÓN 14–6 Igualación de impedancia</i>
 <dl>
 <dd>18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω.</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej18.JPG"></dd>
  <dd>*20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Ω. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej20.JPG"></dd>
 </dl>
 
 <i>SECCIÓN 14–7 Características de un transformador no ideal</i>
 <dl>
 <dd>22. ¿Cuál es la eficiencia del transformador en el problema 21?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej22.JPG"></dd>
 <dd>*24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.</dd>
- <dd><div align="center"><img src=""></dd>
+ <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej24.JPG"></dd>
   <dd>*26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
-(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
-(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
-(c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
-</dd>
- <dd><div align="center"><img src=""></dd> 
+ <dd>(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?</dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej26a.JPG"></dd>
+ <dd>(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?</dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej26b.JPG"></dd>
+<dd>(c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?</dd> 
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej26c.JPG"></dd>
 </dl>
     
   <i>SECCIÓN 14–8 Transformadores con tomas y devanados múltiples</i>
 <dl>
 <dd>28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.</dd>
-<dd><div align="center"><img src=""></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej28.JPG"></dd>
 <dd>30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V</dd>
-<dd><div align="center"><img src=""></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej30.JPG"></dd>
  </dl>
     
  <i>SECCIÓN 14–9 Localización de fallas</i>
 <dl>
 <dd>32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej32.JPG"></dd>
 <dd>34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser, aunque no es de cero. ¿Cuál es la falla más probable?</dd>
-  <dd><div align="center"><img src=""></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej34.JPG"></dd>
 </dl>    
     
 <b>VIDEO
