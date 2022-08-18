@@ -5,13 +5,13 @@
  <b>OBJETIVOS<p> 
 Objetivo General:
 <dl>
- <dd></dd>
+ <dd>Comprender el funcionamiento y aplicación de inductores y transformadores, mediante el estudio de fuentes confiables y la  resolución de ejercicios de los temas estudiados, para comprender los principios de la electricidad y las diferentes formas en ella. Se puede presentar un circuito eléctrico, así como las fórmulas necesarias para solventar los ejercicios.</dd>
 </dl>
 Objetivos Específicos:
 <ul>
- <li></li>
- <li></li>
- <li></li>
+ <li>Definir lo que es un inductor, sus tipos y su funcionamiento</li>
+ <li>Definir lo que es un transformador, sus tipos y su funcionamiento</li>
+ <li>Analizar los circuitos y las fallas que puedan presentarse en ellos</li>
 </ul>
 <b>MARCO TEÓRICO <p>
  <dl>
