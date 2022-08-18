@@ -101,9 +101,9 @@ Objetivos Específicos:
  <i>SECCIÓN 14–3 Transformadores elevadores y reductores</i>
 <dl>
 <dd>6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?</dd>
-  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej5.JPG"></dd>
+  <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej6.JPG"></dd>
   <dd>8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?</dd> 
-<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej.8JPG"></dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej8.JPG"></dd>
 <dd>10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?</dd> 
 <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej10.JPG"></dd>
 <dd>12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?</dd> 
@@ -135,7 +135,12 @@ Objetivos Específicos:
 <dd>22. ¿Cuál es la eficiencia del transformador en el problema 21?</dd>
   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej22.JPG"></dd>
 <dd>*24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.</dd>
- <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej24.JPG"></dd>
+ <dd>(a)	¿Cuál es la corriente máxima en la carga?</dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej24a.JPG"></dd>
+ <dd>(b)	¿Cuál es el valor RL más pequeño que puede ser excitado?</dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej24b.JPG"></dd>
+ <dd>(c)	¿Cuál es el capacitor más grande que se puede conectar como carga?</dd>
+<dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej24c.JPG"></dd>
   <dd>*26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
  <dd>(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?</dd>
   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec14/ej26a.JPG"></dd>
