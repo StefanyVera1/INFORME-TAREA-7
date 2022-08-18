@@ -16,10 +16,9 @@ Objetivos Específicos:
 <b>MARCO TEÓRICO <p>
  <dl>
   <dd>SECCIÓN 13</dd>
-   <dd><div align="center"><img src="" width="400" height="550"></dd> 
-   <dd><div align="center"><img src="" width="400" height="550"></dd> 
-   <dd>SECCIÓN 14</dd>
-   <dd><div align="center"><img src="" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/cap13.jpg" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/cap13-1.jpg" width="400" height="550"></dd> 
+   <dd><div align="center"><img src="https://github.com/StefanyVera1/INFORME-TAREA-7/blob/main/img/sec13/cap13-2.jpg" width="400" height="550"></dd> 
 </dl>
 
 <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
